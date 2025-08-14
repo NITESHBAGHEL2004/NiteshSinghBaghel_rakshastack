@@ -4,6 +4,8 @@
 
 The **PG Listing Website** is a full-stack web application that allows users to browse, search, and filter Paying Guest (PG) accommodations in their city. Registered users can also list their own PGs with full details including amenities, rent, location, and images.
 
+![image alt](https://github.com/NITESHBAGHEL2004/NiteshSinghBaghel_rakshastack/blob/18f162d492b0c9ffae05ec7124164152b3348fab/Screenshot%202025-08-14%20153500.png)
+
 ---
 
 ## 📌 Features
