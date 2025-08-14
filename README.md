@@ -9,6 +9,7 @@ The **PG Listing Website** is a full-stack web application that allows users to 
 ![image alt](https://github.com/NITESHBAGHEL2004/NiteshSinghBaghel_rakshastack/blob/75751a29b0df0337e9f6bc9ccebd8f66ec928cfb/Screenshot%202025-08-14%20153557.png)
 ![image alt](https://github.com/NITESHBAGHEL2004/NiteshSinghBaghel_rakshastack/blob/75751a29b0df0337e9f6bc9ccebd8f66ec928cfb/Screenshot%202025-08-14%20153548.png)
 ![image alt](https://github.com/NITESHBAGHEL2004/NiteshSinghBaghel_rakshastack/blob/75751a29b0df0337e9f6bc9ccebd8f66ec928cfb/Screenshot%202025-08-14%20153851.png)
+![image alt](https://github.com/NITESHBAGHEL2004/NiteshSinghBaghel_rakshastack/blob/1b18ae169960a82fcee6c3a904a3e05ba7999c9e/Screenshot%202025-08-14%20153938.png)
 ---
 
 ## 📌 Features
